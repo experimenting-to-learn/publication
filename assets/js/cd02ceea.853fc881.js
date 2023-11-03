@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[958],{5275:e=>{e.exports=JSON.parse('[{"label":"serverless","permalink":"/publication/blog/tags/serverless","count":2},{"label":"aws","permalink":"/publication/blog/tags/aws","count":2},{"label":"cloud-computing","permalink":"/publication/blog/tags/cloud-computing","count":2}]')}}]);
