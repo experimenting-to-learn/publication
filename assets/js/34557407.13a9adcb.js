@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[257],{1106:e=>{e.exports=JSON.parse('{"label":"cloud-computing","permalink":"/publication/blog/tags/cloud-computing","allTagsPath":"/publication/blog/tags","count":2}')}}]);
