@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[646],{9528:e=>{e.exports=JSON.parse('{"label":"vector-embeddings","permalink":"/publication/blog/tags/vector-embeddings","allTagsPath":"/publication/blog/tags","count":1}')}}]);
