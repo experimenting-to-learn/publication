@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[851],{2507:e=>{e.exports=JSON.parse('{"label":"serverless","permalink":"/publication/blog/tags/serverless","allTagsPath":"/publication/blog/tags","count":2,"unlisted":false}')}}]);

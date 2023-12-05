@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4341],{3852:e=>{e.exports=JSON.parse('{"label":"cloud-native-develop","permalink":"/publication/blog/tags/cloud-native-develop","allTagsPath":"/publication/blog/tags","count":1,"unlisted":false}')}}]);
