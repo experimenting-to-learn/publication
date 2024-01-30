@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9190],{9509:a=>{a.exports=JSON.parse('{"label":"data catalog","permalink":"/publication/blog/tags/data-catalog","allTagsPath":"/publication/blog/tags","count":1,"unlisted":false}')}}]);
