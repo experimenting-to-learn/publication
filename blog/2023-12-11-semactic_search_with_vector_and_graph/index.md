@@ -1,7 +1,7 @@
 ---
 slug: semantic-search-with-vector-and-graph
 title: Graph DB에 Vector 를 통합하여 Semantic Search 구현하기
-authors: [bogyung]
+authors: [bogyeong]
 tags: [semantic-search]
 ---
 

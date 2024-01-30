@@ -1,7 +1,7 @@
 ---
 slug: txt-index-with-vector-embeddings
 title: 텍스트(자연어) 데이터 인덱스 방식과 활용
-authors: [bogyung, eunho]
+authors: [bogyeong, eunho]
 tags: [semantic-search, vector-embeddings, n-gram]
 ---
 
