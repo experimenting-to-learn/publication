@@ -5,13 +5,13 @@ This website is built using [Docusaurus 3](https://docusaurus.io/), a modern sta
 ### Installation
 
 ```
-$ npm install
+$ pnpm install
 ```
 
 ### Local Development
 
 ```
-$ npm run start
+$ pnpm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,7 +19,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ npm run build
+$ pnpm build
 ```
 
 ### Deployment
